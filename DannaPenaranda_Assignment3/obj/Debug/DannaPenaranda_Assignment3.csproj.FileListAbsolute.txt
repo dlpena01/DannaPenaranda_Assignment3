@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\bin\Debug\DannaPenaranda_Assignment3.exe.config
+C:\Users\Danna\Documents\Visual Studio 2012\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\bin\Debug\DannaPenaranda_Assignment3.exe.config
+C:\Users\Danna\Documents\Visual Studio 2012\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\obj\Debug\DannaPenaranda_Assignment3.Form1.resources
+C:\Users\Danna\Documents\Visual Studio 2012\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\obj\Debug\DannaPenaranda_Assignment3.Properties.Resources.resources
+C:\Users\Danna\Documents\Visual Studio 2012\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\obj\Debug\DannaPenaranda_Assignment3.csproj.GenerateResource.Cache
+C:\Users\Danna\Documents\Visual Studio 2012\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\bin\Debug\DannaPenaranda_Assignment3.exe
+C:\Users\Danna\Documents\Visual Studio 2012\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\bin\Debug\DannaPenaranda_Assignment3.pdb
+C:\Users\Danna\Documents\Visual Studio 2012\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\obj\Debug\DannaPenaranda_Assignment3.exe
+C:\Users\Danna\Documents\Visual Studio 2012\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\obj\Debug\DannaPenaranda_Assignment3.pdb
+C:\Users\Danna\Documents\Visual Studio 2012\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\DannaPenaranda_Assignment3\obj\Debug\DannaPenaranda_Assignment3.csprojResolveAssemblyReference.cache
